@@ -1,0 +1,141 @@
+{
+  "author": {
+    "name": "",
+    "url": "",
+    "discordId": ""
+  },
+
+  "puzzleName": "Curtain Up",
+  "description": "The arts take center stage",
+  "groups": [
+    {
+      "name": "Painters",
+      "items": [
+        "Picasso",
+        "Monet",
+        "Rembrandt",
+        "Vermeer",
+        "Caravaggio",
+        "Klimt",
+        "Kandinsky",
+        "Rothko",
+        "Warhol"
+      ]
+    },
+    {
+      "name": "Paintings",
+      "items": [
+        "Guernica",
+        "Nighthawks",
+        "The Persistence of Memory",
+        "The Night Watch",
+        "The Scream",
+        "Sunflowers",
+        "Olympia",
+        "American Gothic",
+        "Ophelia"
+      ]
+    },
+    {
+      "name": "Playwrights",
+      "items": [
+        "Chekhov",
+        "Ibsen",
+        "Beckett",
+        "Williams",
+        "Miller",
+        "O'Neill",
+        "Wilde",
+        "Shaw",
+        "Stoppard"
+      ]
+    },
+    {
+      "name": "Operas",
+      "items": [
+        "Carmen",
+        "Tosca",
+        "La Traviata",
+        "Don Giovanni",
+        "Madama Butterfly",
+        "Aida",
+        "The Magic Flute",
+        "Turandot",
+        "La Bohème"
+      ]
+    },
+    {
+      "name": "Film Noir",
+      "items": [
+        "Chinatown",
+        "Maltese Falcon",
+        "Double Indemnity",
+        "Sunset Boulevard",
+        "The Big Sleep",
+        "Vertigo",
+        "Rebecca",
+        "Mildred Pierce",
+        "Touch of Evil"
+      ]
+    },
+    {
+      "name": "Jazz Musicians",
+      "items": [
+        "Coltrane",
+        "Davis",
+        "Monk",
+        "Parker",
+        "Ellington",
+        "Armstrong",
+        "Mingus",
+        "Brubeck",
+        "Gillespie"
+      ]
+    },
+	{
+	  "name": "Shakespeare Plays",
+	  "items": [
+		"Hamlet",
+		"Macbeth",
+		"Othello",
+		"King Lear",
+		"Coriolanus",
+		"The Tempest",
+		"Twelfth Night",
+		"Cymbeline",
+		"Julius Caesar"
+	  ]
+	},
+	{
+      "name": "Novelists",
+      "items": [
+        "Austen",
+        "Dickens",
+        "Tolstoy",
+        "Woolf",
+        "Kafka",
+        "Dostoevsky",
+        "Hemingway",
+        "Nabokov",
+        "Faulkner",
+        "Borges",
+        "Márquez",
+        "Achebe"
+      ]
+    },
+    {
+      "name": "Film Directors",
+      "items": [
+        "Kubrick",
+        "Kurosawa",
+        "Bergman",
+        "Fellini",
+        "Tarkovsky",
+        "Godard",
+        "Truffaut",
+        "Lynch",
+        "Varda"
+      ]
+    }
+  ]
+}

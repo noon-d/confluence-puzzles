@@ -1,0 +1,215 @@
+{
+  "author": {
+    "name": "",
+    "url": "",
+    "discordId": ""
+  },
+  "puzzleName": "Odds and Ends",
+  "description": "A cabinet of lexical curiousities",
+  "groups": [
+    {
+      "name": "Collective Nouns for Birds",
+      "items": [
+		"Colony",
+		"Wake",
+		"Brood",
+		"Murder",
+		"Parliament",
+		"Bevy",
+		"Flamboyance",
+		"Charm",
+		"Skein",
+		"Confusion",
+		"Exaltation",
+		"Unkindness"
+      ]
+    },
+    {
+      "name": "Swindle",
+      "items": [
+        "Grift",
+        "Con",
+        "Hustle",
+        "Racket",
+        "Fleece",
+        "Bilk",
+        "Flimflam",
+        "Catfish",
+        "Finagle",
+        "Sting",
+        "Bamboozle",
+        "Hoodwink"
+      ]
+    },
+    {
+      "name": "Tarot Cards",
+      "items": [
+        "Fool",
+        "Magician",
+        "Hermit",
+        "Tower",
+        "Moon",
+        "Sun",
+        "Judgment",
+        "Empress",
+        "Chariot",
+        "Temperance",
+        "High Priestess",
+        "World"
+      ]
+    },
+    {
+      "name": "Words that Follow GRAND",
+      "items": [
+        "Piano",
+        "Jury",
+        "Master",
+        "Slam",
+        "Prix",
+        "Canyon",
+        "Stand",
+        "Total",
+        "Parents",
+        "Finale",
+        "Tour",
+        "Vizier"
+      ]
+    },
+    {
+      "name": "Types of Bridge",
+      "items": [
+        "Suspension",
+        "Cantilever",
+        "Arch",
+        "Truss",
+        "Cable-stayed",
+        "Beam",
+        "Drawbridge",
+        "Pontoon",
+        "Covered",
+        "Rope",
+        "Viaduct",
+        "Bascule"
+      ]
+    },
+    {
+      "name": "Loanwords Meaning Leader",
+      "items": [
+        "Kaiser",
+        "Sultan",
+        "Jefe",
+        "Khan",
+        "Satrap",
+        "Caliph",
+        "Shogun",
+        "Pharaoh",
+        "Emir",
+        "Nawab",
+        "Daimyo",
+        "Rajah"
+      ]
+    },
+	{
+      "name": "Shades of Blue",
+      "items": [
+        "Navy",
+        "Cobalt",
+        "Cerulean",
+        "Teal",
+        "Indigo",
+        "Azure",
+        "Periwinkle",
+        "Slate",
+        "Sapphire",
+        "Cyan",
+        "Turquoise",
+        "Midnight"
+      ]
+    },
+    {
+      "name": "Nadsat Words",
+      "items": [
+        "Droog",
+        "Horrorshow",
+        "Moloko",
+        "Gulliver",
+        "Litso",
+        "Malenky",
+        "Veck",
+        "Devotchka",
+        "Tolchock",
+        "Yarbles",
+        "Govoreeet",
+        "Rassoodock"
+      ]
+    },
+    {
+      "name": "Perfume Scent Notes",
+      "items": [
+        "Bergamot",
+        "Jasmine",
+        "Sandalwood",
+        "Vetiver",
+        "Patchouli",
+        "Oud",
+        "Ylang-ylang",
+        "Neroli",
+        "Frankincense",
+        "Labdanum",
+        "Benzoin",
+        "Ambergris"
+      ]
+    },
+    {
+      "name": "Slang for Money",
+      "items": [
+        "Bread",
+        "Dough",
+        "Loot",
+        "Scratch",
+        "Cabbage",
+        "Smackers",
+        "Moolah",
+        "Ducats",
+        "Lettuce",
+        "Cheddar",
+        "Guap",
+        "Bones"
+      ]
+    },
+    {
+      "name": "Meat Cuts",
+      "items": [
+        "Ribeye",
+        "Brisket",
+        "Sirloin",
+        "Flank",
+        "Chuck",
+        "Shank",
+        "Rump",
+        "Skirt",
+        "Hanger",
+        "Blade",
+        "Shin",
+        "Cheek"
+      ]
+    },
+    {
+      "name": "Very Small Amounts",
+      "items": [
+        "Speck",
+        "Smidge",
+        "Grain",
+        "Iota",
+        "Jot",
+        "Hint",
+        "Droplet",
+        "Scintilla",
+        "Modicum",
+        "Morsel",
+        "Sliver",
+        "Trace"
+      ]
+    }
+  ]
+}

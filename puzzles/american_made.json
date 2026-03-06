@@ -1,0 +1,215 @@
+{
+  "author": {
+    "name": "",
+    "url": "",
+    "discordId": ""
+  },
+  "puzzleName": "American Made",
+  "description": "Oh say can you see... a dozen all-American categories",
+  "groups": [
+    {
+      "name": "National Parks",
+      "items": [
+        "Yellowstone",
+        "Yosemite",
+        "Zion",
+        "Acadia",
+        "Glacier",
+        "Everglades",
+        "Shenandoah",
+        "Olympic",
+        "Arches",
+        "Canyonlands",
+        "Denali",
+        "Sequoia"
+      ]
+    },
+    {
+      "name": "Most Populous Counties",
+      "items": [
+        "Los Angeles",
+        "Cook",
+        "Harris",
+        "Maricopa",
+        "San Diego",
+        "Orange",
+        "Miami-Dade",
+        "Dallas",
+        "Kings",
+        "Riverside",
+        "Queens",
+        "Clark"
+      ]
+    },
+    {
+      "name": "MLB Teams",
+      "items": [
+        "Yankees",
+        "Orioles",
+        "Dodgers",
+        "Cubs",
+        "Cardinals",
+        "Giants",
+        "Braves",
+        "Nationals",
+        "Royals",
+        "Athletics",
+        "Mariners",
+        "Guardians"
+      ]
+    },
+    {
+      "name": "Universities",
+      "items": [
+        "Harvard",
+        "Yale",
+        "Princeton",
+        "Stanford",
+        "Johns Hopkins",
+        "Columbia",
+        "Caltech",
+        "Duke",
+        "Dartmouth",
+        "Vanderbilt",
+        "Georgetown",
+        "Tufts"
+      ]
+    },
+	{
+	  "name": "Early U.S. Presidents",
+	  "items": [
+		"Washington",
+		"Adams",
+		"Jefferson",
+		"Madison",
+		"Monroe",
+		"Jackson",
+		"Van Buren",
+		"Harrison",
+		"Tyler",
+		"Polk",
+		"Taylor",
+		"Fillmore"
+	  ]
+	},
+    {
+      "name": "Native American Tribes",
+      "items": [
+        "Cherokee",
+        "Navajo",
+        "Sioux",
+        "Chippewa",
+        "Choctaw",
+        "Apache",
+        "Iroquois",
+        "Comanche",
+        "Pueblo",
+        "Ojibwe",
+        "Shawnee",
+        "Arapaho"
+      ]
+    },
+    {
+      "name": "Birds Native to the USA",
+      "items": [
+        "Bald Eagle",
+        "Northern Cardinal",
+        "Blue Jay",
+        "Mockingbird",
+        "Roadrunner",
+        "Whooping Crane",
+        "California Condor",
+        "Common Loon",
+        "Painted Bunting",
+        "Snowy Owl",
+        "Osprey",
+        "Wild Turkey"
+      ]
+    },
+    {
+      "name": "The _____ State",
+      "items": [
+        "Sunshine",
+        "Lone Star",
+        "Peach",
+        "Beehive",
+        "Cornhusker",
+        "Sooner",
+        "Badger",
+        "Volunteer",
+        "Show-Me",
+        "Silver",
+        "Centennial",
+        "Ocean"
+      ]
+    },
+    {
+      "name": "Civil War Battle Sites",
+      "items": [
+        "Gettysburg",
+        "Antietam",
+        "Bull Run",
+        "Shiloh",
+        "Vicksburg",
+        "Chancellorsville",
+        "Chickamauga",
+        "Cold Harbor",
+        "Spotsylvania",
+        "Petersburg",
+        "Appomattox",
+        "Fredericksburg"
+      ]
+    },
+    {
+      "name": "Secretaries of State",
+      "items": [
+        "Blinken",
+        "Pompeo",
+        "Tillerson",
+        "Kerry",
+        "Clinton",
+        "Rice",
+        "Powell",
+        "Albright",
+        "Christopher",
+        "Baker",
+        "Shultz",
+        "Kissinger"
+      ]
+    },
+{
+      "name": "Oil and Energy Companies",
+      "items": [
+        "ExxonMobil",
+        "Shell",
+        "BP",
+        "Chevron",
+        "ConocoPhillips",
+        "TotalEnergies",
+        "Aramco",
+        "Halliburton",
+        "Texaco",
+        "Standard Oil",
+        "Amoco",
+        "Gazprom"
+      ]
+    },
+    {
+      "name": "CEOs",
+      "items": [
+        "Welch",
+        "Iacocca",
+        "Bezos",
+        "Turner",
+        "Walton",
+        "Kroc",
+        "Disney",
+        "Ford",
+        "Buffett",
+        "Jobs",
+        "Gates",
+        "Hughes"
+      ]
+    }
+  ]
+}

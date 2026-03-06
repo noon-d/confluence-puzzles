@@ -1,0 +1,77 @@
+{
+  "author": {
+    "name": "",
+    "url": "",
+    "discordId": ""
+  },
+  "puzzleName": "Getting Started",
+  "description": "Six groups of six. Click two tiles that belong together to merge them.",
+  "groups": [
+    {
+      "name": "Planets",
+      "items": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Neptune"
+      ]
+    },
+    {
+      "name": "Colours",
+      "items": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow",
+        "Indigo",
+        "Violet"
+      ]
+    },
+    {
+      "name": "Days of the Week",
+      "items": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ]
+    },
+    {
+      "name": "Dogs",
+      "items": [
+        "Labrador",
+        "Poodle",
+        "Beagle",
+        "Bulldog",
+        "Dalmatian",
+        "Husky"
+      ]
+    },
+    {
+      "name": "Musical Instruments",
+      "items": [
+        "Violin",
+        "Trumpet",
+        "Drums",
+        "Guitar",
+        "Flute",
+        "Cello"
+      ]
+    },
+    {
+      "name": "Fruits",
+      "items": [
+        "Apple",
+        "Banana",
+        "Mango",
+        "Strawberry",
+        "Cherry",
+        "Pineapple"
+      ]
+    }
+  ]
+}

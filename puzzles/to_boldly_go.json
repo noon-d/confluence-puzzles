@@ -1,0 +1,215 @@
+{
+  "author": {
+    "name": "",
+    "url": "",
+    "discordId": ""
+  },
+  "puzzleName": "To Boldly Go",
+  "description": "Robots, spaceships, and things that go boom",
+  "groups": [
+    {
+      "name": "Robots",
+      "items": [
+        "R2-D2",
+        "TARS",
+        "WALL-E",
+        "Terminator",
+        "Claptrap",
+        "Bender",
+        "Optimus Prime",
+        "Marvin",
+        "Johnny 5",
+        "Robby",
+        "K-2SO",
+		"Baymax"
+      ]
+    },
+    {
+      "name": "Spaceships",
+      "items": [
+        "Millennium Falcon",
+        "Enterprise",
+        "Serenity",
+        "Nostromo",
+        "Discovery One",
+        "Heart of Gold",
+        "Pegasus",
+        "Bebop",
+        "Normandy",
+        "Event Horizon",
+        "Voyager",
+        "Rocinante"
+      ]
+    },
+    {
+      "name": "Planets",
+      "items": [
+        "Arrakis",
+        "Tatooine",
+        "Gallifrey",
+        "Pandora",
+        "Solaris",
+        "Trantor",
+        "Magrathea",
+        "Coruscant",
+        "Giedi Prime",
+        "Ego",
+        "Dagobah",
+        "Reach"
+      ]
+    },
+    {
+      "name": "Weapons",
+      "items": [
+        "Lightsaber",
+        "Phaser",
+        "BFG",
+        "Noisy Cricket",
+        "Needler",
+        "Thunderfury, Blessed Blade of the Windseeker",
+        "Gravity Gun",
+        "Flak Cannon",
+        "Proton pack",
+        "Bat'leth",
+        "Lancer",
+        "Arc reactor"
+      ]
+    },
+    {
+      "name": "The Matrix",
+      "items": [
+        "Neo",
+        "Morpheus",
+        "Trinity",
+        "Agent Smith",
+        "Oracle",
+        "Cypher",
+        "Tank",
+        "Apoc",
+        "Mouse",
+        "Switch",
+        "Dozer",
+        "The Architect"
+      ]
+    },
+    {
+      "name": "Sci-fi TV Series",
+      "items": [
+        "Firefly",
+        "Westworld",
+        "Farscape",
+        "Babylon 5",
+        "Fringe",
+        "The Expanse",
+        "Dark Matter",
+        "Black Mirror",
+        "Battlestar Galactica",
+        "Silo",
+        "Future Man",
+        "Orphan Black"
+      ]
+    },
+    {
+      "name": "X-Men",
+      "items": [
+        "Wolverine",
+        "Cyclops",
+        "Storm",
+        "Jean Grey",
+        "Rogue",
+        "Gambit",
+        "Nightcrawler",
+        "Colossus",
+        "Beast",
+        "Iceman",
+        "Jubilee",
+        "Psylocke"
+      ]
+    },
+    {
+      "name": "Metals et al",
+      "items": [
+        "Adamantium",
+        "Vibranium",
+        "Mithril",
+        "Kryptonite",
+        "Dilithium",
+        "Unobtanium",
+        "Tiberium",
+        "Carbonite",
+        "Beskar",
+        "Kyber crystal",
+        "Orihalcum",
+        "Melange"
+      ]
+    },
+    {
+      "name": "Food and Drink",
+      "items": [
+        "Pan Galactic Gargle Blaster",
+        "Senzu Bean",
+        "Butterbeer",
+        "Soylent Green",
+        "Nuka-Cola",
+        "Slurm",
+        "Moloko",
+        "Gagh",
+        "Synthehol",
+        "Bachelor Chow",
+        "Lembas",
+        "Brawndo"
+      ]
+    },
+    {
+      "name": "Ladies of Trek",
+      "items": [
+        "Janeway",
+        "Troi",
+        "Crusher",
+        "Uhura",
+        "Kira",
+        "Dax",
+        "Seven",
+        "T'Pol",
+        "Ro",
+        "Keiko",
+        "Guinan",
+        "Tasha"
+      ]
+    },
+    {
+      "name": "Alien Races",
+      "items": [
+        "Klingon",
+        "Romulan",
+        "Cardassian",
+        "Wookiee",
+        "Hutt",
+        "Na'vi",
+        "Xenomorph",
+        "Predator",
+        "Protoss",
+        "Narn",
+        "Heptapod",
+        "Twi'lek"
+      ]
+    },
+    {
+      "name": "Vehicles",
+      "items": [
+        "DeLorean",
+        "TARDIS",
+        "Landspeeder",
+        "Batmobile",
+        "Quinjet",
+        "Ornithopter",
+        "Warthog",
+        "Ecto-1",
+        "Blackbird",
+        "Light cycle",
+        "AT-AT",
+        "Sand Crawler"
+      ]
+    }
+  ]
+}

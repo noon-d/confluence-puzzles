@@ -1,0 +1,137 @@
+{
+  "author": {
+    "name": "",
+    "url": "",
+    "discordId": ""
+  },
+  "puzzleName": "Sesquipedalian",
+  "description": "Uncommon words with common meanings.",
+  "groups": [
+    {
+      "name": "Talkative",
+      "items": [
+        "Loquacious",
+        "Garrulous",
+        "Voluble",
+        "Verbose",
+        "Effusive",
+        "Prolix",
+        "Expansive",
+        "Gabby",
+        "Chatty"
+      ]
+    },
+    {
+      "name": "Fleeting",
+      "items": [
+        "Ephemeral",
+        "Transient",
+        "Evanescent",
+        "Fugacious",
+        "Momentary",
+        "Transitory",
+        "Fugitive",
+        "Mutable",
+        "Passing"
+      ]
+    },
+    {
+      "name": "Gloomy",
+      "items": [
+        "Lugubrious",
+        "Doleful",
+        "Lachrymose",
+        "Mournful",
+        "Elegiac",
+        "Funereal",
+        "Sepulchral",
+        "Plaintive",
+        "Melancholic"
+      ]
+    },
+    {
+      "name": "Showy",
+      "items": [
+        "Ostentatious",
+        "Flamboyant",
+        "Garish",
+        "Florid",
+        "Meretricious",
+        "Gaudy",
+        "Tawdry",
+        "Baroque",
+        "Flashy"
+      ]
+    },
+    {
+      "name": "Clever",
+      "items": [
+        "Perspicacious",
+        "Astute",
+        "Shrewd",
+        "Canny",
+        "Sagacious",
+        "Discerning",
+        "Incisive",
+        "Acute",
+        "Witty"
+      ]
+    },
+    {
+      "name": "Stubborn",
+      "items": [
+        "Obdurate",
+        "Intransigent",
+        "Recalcitrant",
+        "Pertinacious",
+        "Refractory",
+        "Headstrong",
+        "Dogged",
+        "Tenacious",
+        "Mulish"
+      ]
+    },
+	{
+	  "name": "Scarce",
+	  "items": [
+		"Attenuated",
+		"Scant",
+		"Meager",
+		"Paltry",
+		"Deficient",
+		"Negligible",
+		"Trifling",
+		"Exiguous",
+		"Penurious"
+	  ]
+	},
+    {
+      "name": "Fake",
+      "items": [
+        "Spurious",
+        "Ersatz",
+        "Apocryphal",
+        "Counterfeit",
+        "Specious",
+        "Bogus",
+        "Sham",
+        "Fictitious",
+        "Fraudulent"
+      ]
+    },
+    {
+      "name": "Calm",
+      "items": [
+        "Serene",
+        "Tranquil",
+        "Placid",
+        "Halcyon",
+        "Imperturbable",
+        "Equable",
+        "Unruffled",
+        "Composed",
+        "Sedate"
+      ]
+    }
+  ]
+}

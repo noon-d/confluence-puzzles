@@ -1,0 +1,215 @@
+{
+  "author": {
+    "name": "",
+    "url": "",
+    "discordId": ""
+  },
+  "puzzleName": "90s Alternative",
+  "description": "Here we are now, entertain us",
+  "groups": [
+     {
+      "name": "Nirvana",
+      "items": [
+        "Smells Like Teen Spirit",
+        "Come As You Are",
+        "Lithium",
+        "In Bloom",
+        "Heart-Shaped Box",
+        "All Apologies",
+        "About a Girl",
+        "Drain You",
+        "Polly",
+        "Lounge Act",
+        "Something in the Way",
+        "Aneurysm"
+      ]
+    },
+    {
+      "name": "Pearl Jam",
+      "items": [
+        "Alive",
+        "Even Flow",
+        "Jeremy",
+        "Black",
+        "Daughter",
+        "Better Man",
+        "Corduroy",
+        "Elderly Woman Behind the Counter in a Small Town",
+        "Given to Fly",
+        "Rearviewmirror",
+        "Yellow Ledbetter",
+        "Do the Evolution"
+      ]
+    },
+    {
+      "name": "Soundgarden",
+      "items": [
+        "Black Hole Sun",
+        "Spoonman",
+        "Fell on Black Days",
+        "The Day I Tried to Live",
+        "Outshined",
+        "Rusty Cage",
+        "Jesus Christ Pose",
+        "Burden in My Hand",
+        "Pretty Noose",
+        "Blow Up the Outside World",
+        "My Wave",
+        "Superunknown"
+      ]
+    },
+    {
+      "name": "Stone Temple Pilots",
+      "items": [
+        "Plush",
+        "Interstate Love Song",
+        "Vasoline",
+        "Big Empty",
+        "Wicked Garden",
+        "Crackerman",
+        "Dead & Bloated",
+        "Trippin' on a Hole in a Paper Heart",
+        "Sour Girl",
+        "Lady Picture Show",
+        "Big Bang Baby",
+        "Down"
+      ]
+    },
+    {
+      "name": "The Smashing Pumpkins",
+      "items": [
+        "Today",
+        "Cherub Rock",
+        "Disarm",
+        "Rocket",
+        "Bullet with Butterfly Wings",
+        "1979",
+        "Tonight, Tonight",
+        "Zero",
+        "Thirty-Three",
+        "Ava Adore",
+        "Perfect",
+        "Eye"
+      ]
+    },
+    {
+      "name": "R.E.M.",
+      "items": [
+        "Losing My Religion",
+        "Everybody Hurts",
+        "Man on the Moon",
+        "It's the End of the World as We Know It (And I Feel Fine)",
+        "Orange Crush",
+        "Stand",
+        "The One I Love",
+        "Drive",
+        "Nightswimming",
+        "What's the Frequency, Kenneth?",
+        "Shiny Happy People",
+        "Radio Free Europe"
+      ]
+    },
+    {
+      "name": "Red Hot Chili Peppers",
+      "items": [
+        "Under the Bridge",
+        "Give It Away",
+        "Californication",
+        "Scar Tissue",
+        "Otherside",
+        "Soul to Squeeze",
+        "Aeroplane",
+        "Suck My Kiss",
+        "Breaking the Girl",
+        "Around the World",
+        "Road Trippin'",
+        "My Friends"
+      ]
+    },
+    {
+      "name": "Green Day",
+      "items": [
+        "Basket Case",
+        "When I Come Around",
+        "Longview",
+        "Welcome to Paradise",
+        "Brain Stew",
+        "Jaded",
+        "Good Riddance (Time of Your Life)",
+        "Geek Stink Breath",
+        "Hitchin' a Ride",
+        "Nice Guys Finish Last",
+        "Redundant",
+        "She"
+      ]
+    },
+    {
+      "name": "Oasis",
+      "items": [
+        "Wonderwall",
+        "Don't Look Back in Anger",
+        "Champagne Supernova",
+        "Live Forever",
+        "Supersonic",
+        "Some Might Say",
+        "Morning Glory",
+        "Rock 'n' Roll Star",
+        "Slide Away",
+        "Whatever",
+        "Stand by Me",
+        "The Masterplan"
+      ]
+    },
+    {
+      "name": "The Cranberries",
+      "items": [
+        "Zombie",
+        "Linger",
+        "Dreams",
+        "Ode to My Family",
+        "Salvation",
+        "Ridiculous Thoughts",
+        "Animal Instinct",
+        "Free to Decide",
+        "When You're Gone",
+        "Just My Imagination",
+        "Promises",
+        "I Can't Be with You"
+      ]
+    },
+    {
+      "name": "Counting Crows",
+      "items": [
+        "Mr. Jones",
+        "Round Here",
+        "Rain King",
+        "A Long December",
+        "Accidentally in Love",
+        "Omaha",
+        "Einstein on the Beach",
+        "Anna Begins",
+        "Hanginaround",
+        "Colorblind",
+        "Daylight Fading",
+        "Mrs. Potter's Lullaby"
+      ]
+    },
+    {
+      "name": "Garbage",
+      "items": [
+        "Stupid Girl",
+        "Only Happy When It Rains",
+        "Queer",
+        "I Think I'm Paranoid",
+        "Special",
+        "Push It",
+        "Milk",
+        "Vow",
+        "When I Grow Up",
+        "The World Is Not Enough",
+        "Cherry Lips",
+        "#1 Crush"
+      ]
+    }
+  ]
+}

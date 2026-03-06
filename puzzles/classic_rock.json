@@ -1,0 +1,215 @@
+{
+  "author": {
+    "name": "",
+    "url": "",
+    "discordId": ""
+  },
+  "puzzleName": "Classic Rock",
+  "description": "The songs of twelve titans of rock and roll",
+  "groups": [
+    {
+      "name": "Led Zeppelin",
+      "items": [
+        "Whole Lotta Love",
+        "Kashmir",
+        "Black Dog",
+        "Stairway to Heaven",
+        "Rock and Roll",
+        "Immigrant Song",
+        "Ramble On",
+        "Heartbreaker",
+        "Going to California",
+        "When the Levee Breaks",
+        "The Ocean",
+        "Achilles Last Stand"
+      ]
+    },
+    {
+      "name": "The Beatles",
+      "items": [
+        "Come Together",
+        "Let It Be",
+        "Hey Jude",
+        "Yesterday",
+        "Blackbird",
+        "Eleanor Rigby",
+        "In My Life",
+        "Something",
+        "A Day in the Life",
+        "Norwegian Wood",
+        "Strawberry Fields Forever",
+        "Helter Skelter"
+      ]
+    },
+    {
+      "name": "Rolling Stones",
+      "items": [
+        "Gimme Shelter",
+        "Paint It Black",
+        "Sympathy for the Devil",
+        "Satisfaction",
+        "Wild Horses",
+        "Tumbling Dice",
+        "Exile on Main St",
+        "Brown Sugar",
+        "Angie",
+        "Jumping Jack Flash",
+        "Start Me Up",
+        "Ruby Tuesday"
+      ]
+    },
+    {
+      "name": "Pink Floyd",
+      "items": [
+        "Comfortably Numb",
+        "Wish You Were Here",
+        "Money",
+        "Time",
+        "Another Brick in the Wall",
+        "Brain Damage",
+        "Dogs",
+        "Shine On You Crazy Diamond",
+        "Us and Them",
+        "Have a Cigar",
+        "Pigs",
+        "The Great Gig in the Sky"
+      ]
+    },
+    {
+      "name": "The Who",
+      "items": [
+        "Baba O'Riley",
+        "Won't Get Fooled Again",
+        "My Generation",
+        "Pinball Wizard",
+        "Behind Blue Eyes",
+        "Substitute",
+        "The Kids Are Alright",
+        "Magic Bus",
+        "I Can See for Miles",
+        "Love Reign O'er Me",
+        "Squeeze Box",
+        "Who Are You"
+      ]
+    },
+    {
+      "name": "Queen",
+      "items": [
+        "Bohemian Rhapsody",
+        "We Will Rock You",
+        "We Are the Champions",
+        "Somebody to Love",
+        "Don't Stop Me Now",
+        "Under Pressure",
+        "Killer Queen",
+        "Radio Ga Ga",
+        "Another One Bites the Dust",
+        "Innuendo",
+        "Bicycle Race",
+        "Flash"
+      ]
+    },
+    {
+      "name": "Fleetwood Mac",
+      "items": [
+        "The Chain",
+        "Go Your Own Way",
+        "Dreams",
+        "Rhiannon",
+        "Gold Dust Woman",
+        "Sara",
+        "Little Lies",
+        "Everywhere",
+        "Landslide",
+        "Oh Well",
+        "The Green Manalishi",
+        "Albatross"
+      ]
+    },
+    {
+      "name": "Eagles",
+      "items": [
+        "Hotel California",
+        "Take It Easy",
+        "Desperado",
+        "Life in the Fast Lane",
+        "One of These Nights",
+        "Lyin' Eyes",
+        "Take It to the Limit",
+        "New Kid in Town",
+        "Already Gone",
+        "Peaceful Easy Feeling",
+        "The Long Run",
+        "Heartache Tonight"
+      ]
+    },
+    {
+      "name": "Aerosmith",
+      "items": [
+        "Dream On",
+        "Sweet Emotion",
+        "Walk This Way",
+        "Back in the Saddle",
+        "Toys in the Attic",
+        "Cryin'",
+        "Crazy",
+        "Janie's Got a Gun",
+        "Love in an Elevator",
+        "Dude Looks Like a Lady",
+        "Rag Doll",
+        "Angel"
+      ]
+    },
+    {
+      "name": "Bruce Springsteen",
+      "items": [
+        "Born to Run",
+        "Thunder Road",
+        "Hungry Heart",
+        "Dancing in the Dark",
+        "The River",
+        "Atlantic City",
+        "Nebraska",
+        "Rosalita",
+        "Jungleland",
+        "Badlands",
+        "Glory Days",
+        "Born in the USA"
+      ]
+    },
+    {
+      "name": "Bob Dylan",
+      "items": [
+        "Like a Rolling Stone",
+        "Blowin' in the Wind",
+        "Mr. Tambourine Man",
+        "The Times They Are a-Changin'",
+        "Tangled Up in Blue",
+        "Knockin' on Heaven's Door",
+        "Hurricane",
+        "Subterranean Homesick Blues",
+        "Positively 4th Street",
+        "Just Like a Woman",
+        "Desolation Row",
+        "Lay Lady Lay"
+      ]
+    },
+    {
+      "name": "Jimi Hendrix",
+      "items": [
+        "Purple Haze",
+        "All Along the Watchtower",
+        "Voodoo Child",
+        "Little Wing",
+        "Hey Joe",
+        "The Wind Cries Mary",
+        "Foxy Lady",
+        "Bold as Love",
+        "Castles Made of Sand",
+        "Fire",
+        "Manic Depression",
+        "Red House"
+      ]
+    }
+  ]
+}

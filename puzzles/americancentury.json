@@ -1,0 +1,137 @@
+{
+  "author": {
+    "name": "",
+    "url": "",
+    "discordId": ""
+  },
+  "puzzleName": "The American Century",
+  "description": "From the early Cold War to the Clinton years.",
+  "groups": [
+	{
+	  "name": "Ronald Reagan",
+	  "items": [
+		"Strategic Defense Initiative",
+		"Iran-Contra Affair",
+		"Reykjavik Summit",
+		"INF Treaty",
+		"Grenada invasion",
+		"Beirut barracks bombing",
+		"Air traffic controllers strike",
+		"War on Drugs",
+		"Tear Down This Wall"
+	  ]
+	},
+    {
+      "name": "Vietnam War",
+      "items": [
+        "Tet Offensive",
+        "Napalm",
+        "Agent Orange",
+        "Viet Cong",
+        "Gulf of Tonkin",
+        "My Lai",
+        "Hamburger Hill",
+        "Fragging",
+        "Hearts and Minds"
+      ]
+    },
+    {
+      "name": "Civil Rights",
+      "items": [
+        "Montgomery",
+        "Selma",
+        "Freedom Riders",
+        "March on Washington",
+        "Birmingham",
+        "Voting Rights Act",
+        "Little Rock",
+        "SNCC",
+        "Medgar Evers"
+      ]
+    },
+    {
+      "name": "50s Fads",
+      "items": [
+        "Hula hoop",
+        "Drive-in",
+        "Sock hop",
+        "Poodle skirt",
+        "Saddle shoes",
+        "TV dinner",
+        "Tail fins",
+        "Beatnik",
+        "Davy Crockett hat"
+      ]
+    },
+	{
+	  "name": "Watergate",
+	  "items": [
+		"Deep Throat",
+		"Saturday Night Massacre",
+		"White House Plumbers",
+		"H. R. Haldeman",
+		"John Ehrlichman",
+		"John Dean",
+		"John N. Mitchell",
+		"18½-minute gap",
+		"Ford pardon"
+	  ]
+	},
+    {
+      "name": "Space Race",
+      "items": [
+        "Mercury",
+        "Gemini",
+        "Apollo",
+        "Vostok",
+        "Skylab",
+        "Laika",
+        "Moonwalk",
+        "Tranquility Base",
+        "Eagle"
+      ]
+    },
+    {
+      "name": "60s Counterculture",
+      "items": [
+        "Woodstock",
+        "Haight-Ashbury",
+        "Free love",
+        "Flower power",
+        "Timothy Leary",
+        "Acid test",
+        "Commune",
+        "Summer of Love",
+        "Ken Kesey"
+      ]
+    },
+    {
+      "name": "70s Pop Culture",
+      "items": [
+        "Disco",
+        "Mood ring",
+        "Pet rock",
+        "CB radio",
+        "Macramé",
+        "Platform shoes",
+        "Streaking",
+        "Waterbeds",
+        "Lava lamp"
+      ]
+    },
+    {
+      "name": "Bill Clinton",
+      "items": [
+        "NAFTA",
+        "Welfare reform",
+        "Don't Ask Don't Tell",
+        "Oslo Accords",
+        "Oklahoma City bombing",
+        "Waco",
+        "Kosovo",
+        "Kyoto Protocol",
+        "Impeachment"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "author": {
+    "name": "",
+    "url": "",
+    "discordId": ""
+  },
+  "puzzleName": "Legend of Zelda",
+  "description": "The Wonderful World of Hyrule",
+  "groups": [
+    {
+      "name": "Weapons",
+      "items": [
+        "Master Sword",
+        "Hero's Bow",
+        "Megaton Hammer",
+        "Boomerang",
+        "Hookshot",
+        "Magic Rod",
+        "Spinner",
+        "Ball and Chain",
+        "Gust Bellows"
+      ]
+    },
+    {
+      "name": "Villains",
+      "items": [
+        "Ganon",
+        "Vaati",
+        "Zant",
+        "Majora",
+        "Demise",
+        "Yuga",
+        "Malladus",
+        "Bellum",
+        "Astor"
+      ]
+    },
+    {
+      "name": "Common Enemies",
+      "items": [
+        "Bokoblin",
+        "Moblin",
+        "Lizalfos",
+        "Keese",
+        "Octorok",
+        "ChuChu",
+        "Stalfos",
+        "Wizzrobe",
+        "Like Like"
+      ]
+    },
+    {
+      "name": "Locations",
+      "items": [
+        "Kakariko",
+        "Skyloft",
+        "Termina",
+        "Holodrum",
+        "Labrynna",
+        "Lorule",
+        "Ordon",
+        "Faron",
+        "Akkala"
+      ]
+    },
+    {
+      "name": "Creatures",
+      "items": [
+        "Loftwing",
+        "Cucco",
+        "Blupee",
+        "Dodongo",
+        "Molduga",
+        "Gleeok",
+        "Helmaroc",
+        "Levias",
+        "Dondons"
+      ]
+    },
+    {
+      "name": "Shopkeepers",
+      "items": [
+        "Beedle",
+        "Ravio",
+        "Malo",
+        "Zunari",
+        "Terry",
+        "Peatrice",
+        "Pumm",
+        "Granté",
+        "Kilton"
+      ]
+    },
+    {
+      "name": "Sheikah Technology",
+      "items": [
+        "Guardian",
+        "Shrine",
+        "Sheikah Slate",
+        "Tower",
+        "Ancient Core",
+        "Stasis",
+        "Magnesis",
+        "Cryonis",
+        "Remote Bomb"
+      ]
+    },
+    {
+      "name": "Companions",
+      "items": [
+        "Navi",
+        "Midna",
+        "Fi",
+        "Ezlo",
+        "Tatl",
+        "Ciela",
+        "Linebeck",
+        "King of Red Lions",
+        "Spirit Zelda"
+      ]
+    },
+	{
+      "name": "Musical Instruments",
+      "items": [
+        "Ocarina",
+        "Wind Waker",
+        "Harp",
+        "Spirit Flute",
+        "Goron Drums",
+        "Zora Guitar",
+        "Deku Pipes",
+        "Goddess Harp",
+        "Recorder"
+      ]
+    }
+  ]
+}

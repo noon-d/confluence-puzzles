@@ -1,0 +1,215 @@
+{
+  "author": {
+    "name": "",
+    "url": "",
+    "discordId": ""
+  },
+  "puzzleName": "Here There Be Dragons",
+  "description": "Twelve sets forged in the fires of Mt Doom",
+  "groups": [
+    {
+      "name": "Famous Swords",
+      "items": [
+        "Excalibur",
+        "Glamdring",
+        "Andúril",
+        "Needle",
+        "Longclaw",
+        "Oathkeeper",
+        "Callandor",
+        "Nightblood",
+        "Dawnbreaker",
+        "Brisingr",
+        "Terminus Est",
+        "Durendal"
+      ]
+    },
+    {
+      "name": "Rogue Classes",
+      "items": [
+        "Cutpurse",
+        "Pilferer",
+        "Filcher",
+        "Footpad",
+        "Purloiner",
+        "Sneak",
+        "Brigand",
+        "Knave",
+        "Scoundrel",
+        "Rogue",
+        "Shadowrunner",
+        "Thief"
+      ]
+    },
+    {
+      "name": "Mage Classes",
+      "items": [
+	    "Wizard",
+        "Arcanist",
+        "Conjurer",
+        "Enchanter",
+        "Illusionist",
+        "Evoker",
+        "Thaumaturge",
+        "Warlock",
+        "Sorcerer",
+        "Mage",
+        "Elementalist",
+        "Spellslinger"
+      ]
+    },
+	{
+      "name": "Dragons",
+      "items": [
+        "Smaug",
+        "Nidhogg",
+        "Fafnir",
+        "Drogon",
+        "Balerion",
+        "Alexstrasza",
+        "Deathwing",
+        "Nicol Bolas",
+        "Niv-Mizzet",
+        "Cyan Bloodbane",
+        "Khisanth",
+        "Ramoth"
+      ]
+    },
+{
+      "name": "D&D Spells",
+      "items": [
+        "Polymorph",
+        "Misty Step",
+        "Eldritch Blast",
+        "Prestidigitation",
+        "Disintegrate",
+        "Charm Person",
+        "Wish",
+        "Meteor Swarm",
+        "Animate Dead",
+        "Sending",
+        "Feeblemind",
+        "Shatter"
+      ]
+    },
+    {
+      "name": "MtG - Unlimited Edition",
+      "items": [
+        "Black Lotus",
+        "Ancestral Recall",
+        "Time Walk",
+        "Mox Sapphire",
+        "Dark Ritual",
+        "Serra Angel",
+        "Hypnotic Specter",
+        "Llanowar Elves",
+        "Sol Ring",
+        "Brainstorm",
+        "Demonic Tutor",
+        "Force of Will"
+      ]
+    },
+    {
+      "name": "Kingdoms and Realms",
+      "items": [
+        "Gondor",
+        "Rohan",
+        "Narnia",
+        "Camelot",
+        "Westeros",
+        "Hyrule",
+        "Redwall",
+        "Shannara",
+        "Valdemar",
+        "Amber",
+        "Styria",
+        "Midkemia"
+      ]
+    },
+	{
+      "name": "The Hero's Journey",
+      "items": [
+        "Ordinary World",
+        "Call to Adventure",
+        "Refusal of the Call",
+        "Meeting the Mentor",
+        "Crossing the Threshold",
+        "Tests, Allies and Enemies",
+        "Approach to the Inmost Cave",
+        "The Ordeal",
+        "The Reward",
+        "The Road Back",
+        "The Resurrection",
+        "Return with the Elixir"
+      ]
+    },
+{
+      "name": "Fictional Languages",
+      "items": [
+        "Quenya",
+        "Sindarin",
+        "Khuzdul",
+        "Black Speech",
+        "Common",
+        "Dothraki",
+        "Valyrian",
+        "Parseltongue",
+        "Na'vi",
+        "Thieves' Cant",
+        "Entish",
+        "Huttese"
+      ]
+    },
+    {
+      "name": "Undead Monsters",
+      "items": [
+        "Lich",
+        "Wight",
+        "Revenant",
+        "Banshee",
+        "Ghoul",
+        "Vampire",
+        "Zombie",
+        "Skeleton",
+        "Wraith",
+        "Death Knight",
+        "Dullahan",
+        "Draugr"
+      ]
+    },
+    {
+      "name": "Famous Taverns and Inns",
+      "items": [
+        "Prancing Pony",
+        "Leaky Cauldron",
+        "Waystone Inn",
+        "Inn of the Last Home",
+        "Broken Drum",
+        "Gadget's Place",
+        "Crossroads Inn",
+        "Boar's Head",
+        "Dragon's Tooth",
+        "Blind Pig",
+        "The Rusty Anchor",
+        "Goblin's Arms"
+      ]
+    },
+	{
+      "name": "Divination Methods",
+      "items": [
+        "Crystal ball",
+        "Scrying pool",
+        "Tea leaves",
+        "Tarot cards",
+        "Rune stones",
+        "Entrails",
+        "Oracle bones",
+        "Magic mirror",
+        "Pendulum",
+        "Palm",
+        "Astrolabe",
+        "Ouija board"
+      ]
+    }
+  ]
+}

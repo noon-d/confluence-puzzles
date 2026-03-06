@@ -1,0 +1,215 @@
+{
+  "author": {
+    "name": "",
+    "url": "",
+    "discordId": ""
+  },
+  "puzzleName": "All Over the World",
+  "description": "Pack light. The answers are everywhere!",
+  "groups": [
+	{
+      "name": "Asian Capitals",
+      "items": [
+        "Tokyo",
+        "Beijing",
+        "Seoul",
+        "Bangkok",
+        "Jakarta",
+        "Hanoi",
+        "Islamabad",
+        "Dhaka",
+        "Colombo",
+        "Ulaanbaatar",
+        "Vientiane",
+        "Phnom Penh"
+      ]
+    },
+    {
+      "name": "Rivers",
+      "items": [
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mekong",
+        "Volga",
+        "Zambezi",
+        "Orinoco",
+        "Danube",
+        "Ganges",
+        "Tigris",
+        "Euphrates",
+        "Congo"
+      ]
+    },
+    {
+      "name": "Mountain Peaks",
+      "items": [
+        "Everest",
+        "Kilimanjaro",
+        "Denali",
+        "Aconcagua",
+        "Elbrus",
+        "Vinson",
+        "Puncak Jaya",
+        "Matterhorn",
+        "Fuji",
+        "Mont Blanc",
+        "K2",
+        "Annapurna"
+      ]
+    },
+    {
+      "name": "Disputed Territories",
+      "items": [
+        "Kashmir",
+        "Tibet",
+        "Palestine",
+        "Western Sahara",
+        "Kosovo",
+        "Crimea",
+        "Nagorno-Karabakh",
+        "Transnistria",
+        "Abkhazia",
+        "South Ossetia",
+        "Somaliland",
+        "Northern Cyprus"
+      ]
+    },
+    {
+      "name": "Markets and Bazaars",
+      "items": [
+        "Grand Bazaar",
+        "Souq Waqif",
+        "Chatuchak",
+        "Borough Market",
+        "La Boqueria",
+        "Tsukiji",
+        "Khan el-Khalili",
+        "Marché d'Aligre",
+        "Portobello Road",
+        "Damnoen Saduak",
+        "Namdaemun",
+        "Mercado de San Miguel"
+      ]
+    },
+	{
+      "name": "Temples and Cathedrals",
+      "items": [
+        "Angkor Wat",
+        "Borobudur",
+        "Shwedagon Pagoda",
+        "Chartres Cathedral",
+        "Cologne Cathedral",
+        "Notre-Dame",
+        "St Peter's Basilica",
+        "Westminster Abbey",
+        "Karnak",
+        "Parthenon",
+        "Church of the Holy Sepulchre",
+        "Santiago de Compostela"
+      ]
+    },
+    {
+      "name": "Words for Hello",
+      "items": [
+        "Bonjour",
+        "Hola",
+        "Ciao",
+        "Jambo",
+        "Salut",
+        "Merhaba",
+        "Ahlan",
+        "Shalom",
+        "Aloha",
+        "Konnichiwa",
+        "Zdravstvuyte",
+        "Sawubona"
+      ]
+    },
+    {
+      "name": "Islands",
+      "items": [
+        "Greenland",
+        "Borneo",
+        "Sicily",
+        "Madagascar",
+        "Crete",
+        "Sardinia",
+        "Hokkaido",
+        "Sumatra",
+        "Hispaniola",
+        "Zanzibar",
+        "Réunion",
+        "Newfoundland"
+      ]
+    },
+    {
+      "name": "Deserts",
+      "items": [
+        "Sahara",
+        "Gobi",
+        "Atacama",
+        "Namib",
+        "Kalahari",
+        "Sonoran",
+        "Patagonian",
+        "Arabian",
+        "Taklamakan",
+        "Mojave",
+        "Great Victoria",
+        "Negev"
+      ]
+    },
+    {
+      "name": "Landlocked Countries",
+      "items": [
+        "Mongolia",
+        "Bolivia",
+        "Paraguay",
+        "Afghanistan",
+        "Mali",
+        "Niger",
+        "Chad",
+        "Zambia",
+        "Laos",
+        "Nepal",
+        "Armenia",
+        "Lesotho"
+      ]
+    },
+	{
+      "name": "Lost Cities",
+      "items": [
+        "Pompeii",
+        "Atlantis",
+        "Troy",
+        "Babylon",
+        "Machu Picchu",
+        "El Dorado",
+        "Carthage",
+        "Chichen Itza",
+        "Teotihuacan",
+        "Persepolis",
+        "Camelot",
+        "Petra"
+      ]
+    },
+	{
+      "name": "Currencies",
+      "items": [
+        "Peso",
+        "Rupee",
+        "Ruble",
+        "Krona",
+        "Rand",
+        "Shekel",
+        "Dinar",
+        "Baht",
+        "Won",
+        "Zloty",
+        "Lira",
+        "Ringgit"
+      ]
+    }
+  ]
+}

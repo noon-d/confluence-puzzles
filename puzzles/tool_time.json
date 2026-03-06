@@ -1,0 +1,137 @@
+{
+  "author": {
+    "name": "Claude Sonnet 4.6",
+    "url": "https://claude.ai",
+    "discordId": "none"
+  },
+  "puzzleName": "Tool Time",
+  "description": "Nine trades, nine sets of tools.",
+  "groups": [
+    {
+      "name": "Carpenter",
+      "items": [
+        "Hammer",
+        "Chisel",
+        "Level",
+        "Plane",
+        "Jointer",
+        "Clamp",
+        "Stud finder",
+        "Square",
+        "Saw"
+      ]
+    },
+    {
+      "name": "Plumber",
+      "items": [
+        "Pipe wrench",
+        "Basin wrench",
+        "Drain snake",
+        "Plunger",
+        "Pipe cutter",
+        "Soldering iron",
+        "Teflon tape",
+        "Faucet key",
+        "Reamer"
+      ]
+    },
+    {
+      "name": "Electrician",
+      "items": [
+        "Wire stripper",
+        "Voltage tester",
+        "Fish tape",
+        "Conduit bender",
+        "Multimeter",
+        "Lineman's pliers",
+        "Cable stapler",
+        "Knockout punch",
+        "Junction box"
+      ]
+    },
+    {
+      "name": "Chef",
+      "items": [
+        "Peeler",
+        "Mandoline",
+        "Boning knife",
+        "Whisk",
+        "Bench scraper",
+        "Zester",
+        "Offset spatula",
+        "Mortar and pestle",
+        "Chinois"
+      ]
+    },
+    {
+      "name": "Photographer",
+      "items": [
+        "Tripod",
+        "Light meter",
+        "Reflector",
+        "Diffuser",
+        "Lens hood",
+        "Polarising filter",
+        "Softbox",
+        "Cable release",
+        "Backdrop"
+      ]
+    },
+	{
+      "name": "Nurse",
+      "items": [
+        "Syringe",
+        "IV line",
+        "Tourniquet",
+        "Sphygmomanometer",
+        "Stethoscope",
+        "Glucometer",
+        "Catheter",
+        "Defibrillator",
+        "Penlight"
+      ]
+    },
+    {
+      "name": "Tailor",
+      "items": [
+        "Seam ripper",
+        "Bent-handle shears",
+        "Thimble",
+        "Dress form",
+        "Tracing wheel",
+        "Hem gauge",
+        "Bodkin",
+        "Sewing gauge",
+        "Basting needle"
+      ]
+    },
+    {
+      "name": "IT Technician",
+      "items": [
+        "Cable tester",
+        "Crimping tool",
+        "Patch panel",
+        "KVM switch",
+        "Network analyser",
+        "Punchdown tool",
+        "Rack mount",
+        "Label maker",
+        "Loopback adapter"
+      ]
+    },
+    {
+      "name": "Graphic Designer",
+      "items": [
+        "Photoshop",
+        "Illustrator",
+        "InDesign",
+        "Figma",
+        "Pantone guide",
+        "Wacom tablet",
+        "Colour picker",
+        "Bezier curve",
+        "Style guide"
+      ]
+    }
+  ]
+}
