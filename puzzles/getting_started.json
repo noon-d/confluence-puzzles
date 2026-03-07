@@ -1,11 +1,11 @@
 {
   "author": {
-    "name": "",
-    "url": "",
-    "discordId": ""
+    "name": "noon",
+    "url": "https://noon-d.github.io/confluence-puzzles/",
+    "discordId": "dbbp"
   },
   "puzzleName": "Getting Started",
-  "description": "Six groups of six. Click two tiles that belong together to merge them.",
+  "description": "The tiles below form six logical groups of six. Click two tiles that belong together to merge them. Tiles not in the same group will not merge. Items should not be part of two sets eg \"Orange\" is not present because it could be a color or a fruit. No promises though. The hint button will make a merge for you. You can smash it to finish up the puzzle.",
   "groups": [
     {
       "name": "Planets",

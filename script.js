@@ -35,17 +35,15 @@ const tooltip = document.getElementById("tooltip");
 const lightBtn = document.getElementById("lightBtn");
 const fontBtn = document.getElementById("fontBtn");
 
-// ---------- Toggles (light mode / font size) ----------
+// ---------- Toggles (light mode / font cycle) ----------
 (function initToggles() {
   const body = document.body;
 
   // Restore saved prefs before first render
   if (localStorage.getItem("confluence-light") === "1") body.classList.add("light");
-  if (localStorage.getItem("confluence-large") === "1") body.classList.add("large-font");
 
   function syncToggleBtns() {
     if (lightBtn) lightBtn.style.opacity = body.classList.contains("light") ? "1" : "0.55";
-    if (fontBtn)  fontBtn.style.fontWeight = body.classList.contains("large-font") ? "bold" : "normal";
   }
 
   lightBtn?.addEventListener("click", () => {
@@ -54,13 +52,40 @@ const fontBtn = document.getElementById("fontBtn");
     syncToggleBtns();
   });
 
-  fontBtn?.addEventListener("click", () => {
-    body.classList.toggle("large-font");
-    localStorage.setItem("confluence-large", body.classList.contains("large-font") ? "1" : "0");
-    syncToggleBtns();
-  });
-
   syncToggleBtns();
+
+  // Font cycling
+	const FONTS = [
+	  { name: "System",              stack: "system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif", size: "12px", weight: "400" },
+	  { name: "Mono",			     stack: '"Share Tech Mono",monospace', size: "14px", weight: "700" },/*
+  	  { name: "DM Serif Display",    stack: '"DM Serif Display",serif', size: "16px" },
+	  { name: "Playfair Display",    stack: '"Playfair Display",serif', size: "16px" },
+	  { name: "Bebas Neue",          stack: '"Bebas Neue",sans-serif', size: "18px" },
+	  { name: "Josefin Sans",        stack: '"Josefin Sans",sans-serif', size: "20px" },
+	  { name: "Caveat",              stack: '"Caveat",cursive', size: "22px" },
+	  { name: "Indie Flower",        stack: '"Indie Flower",cursive', size: "24x" },
+	  { name: "Permanent Marker",    stack: '"Permanent Marker",cursive', size: "30px" },*/
+	];
+
+  let fontIdx = parseInt(localStorage.getItem("confluence-font") || "0", 10);
+  if (isNaN(fontIdx) || fontIdx < 0 || fontIdx >= FONTS.length) fontIdx = 0;
+
+  function applyFont() {
+    document.documentElement.style.setProperty("--tile-family", FONTS[fontIdx].stack);
+	document.documentElement.style.setProperty("--tile-font", FONTS[fontIdx].size || "12.5px");
+	document.documentElement.style.setProperty("--tile-weight", FONTS[fontIdx].weight || "normal");
+
+    if (fontBtn) fontBtn.textContent = fontIdx === 0 ? "A" : FONTS[fontIdx].name.split(" ")[0];
+    if (fontBtn) fontBtn.title = FONTS[fontIdx].name;
+  }
+
+  applyFont();
+
+  fontBtn?.addEventListener("click", () => {
+    fontIdx = (fontIdx + 1) % FONTS.length;
+    localStorage.setItem("confluence-font", String(fontIdx));
+    applyFont();
+  });
 })();
 
 // Optional header elements (if you add them later)

@@ -1,8 +1,8 @@
 {
   "author": {
-    "name": "",
-    "url": "",
-    "discordId": ""
+    "name": "noon",
+    "url": "https://noon-d.github.io/confluence-puzzles/",
+    "discordId": "dbbp"
   },
   "puzzleName": "All Over the World",
   "description": "Pack light. The answers are everywhere!",
@@ -89,7 +89,7 @@
         "Portobello Road",
         "Damnoen Saduak",
         "Namdaemun",
-        "Mercado de San Miguel"
+        "Mercado Central"
       ]
     },
 	{
@@ -103,10 +103,10 @@
         "Notre-Dame",
         "St Peter's Basilica",
         "Westminster Abbey",
-        "Karnak",
+        "Sagrada Família",
         "Parthenon",
-        "Church of the Holy Sepulchre",
-        "Santiago de Compostela"
+        "Hagia Sophia",
+        "Basílica de Santa María de Guadalupe"
       ]
     },
     {
@@ -117,13 +117,13 @@
         "Ciao",
         "Jambo",
         "Salut",
-        "Merhaba",
-        "Ahlan",
+        "Annyeong",
+        "Namaste",
         "Shalom",
         "Aloha",
         "Konnichiwa",
         "Zdravstvuyte",
-        "Sawubona"
+        "Salaam"
       ]
     },
     {
@@ -157,7 +157,7 @@
         "Taklamakan",
         "Mojave",
         "Great Victoria",
-        "Negev"
+        "Dasht-e Kavir"
       ]
     },
     {
@@ -178,22 +178,22 @@
       ]
     },
 	{
-      "name": "Lost Cities",
-      "items": [
-        "Pompeii",
-        "Atlantis",
-        "Troy",
-        "Babylon",
-        "Machu Picchu",
-        "El Dorado",
-        "Carthage",
-        "Chichen Itza",
-        "Teotihuacan",
-        "Persepolis",
-        "Camelot",
-        "Petra"
-      ]
-    },
+	  "name": "Bronze Age Cities",
+	  "items": [
+		"Ur",
+		"Babylon",
+		"Thebes",
+		"Memphis",
+		"Troy",
+		"Mycenae",
+		"Knossos",
+		"Ugarit",
+		"Mohenjo-daro",
+		"Anyang",
+		"Hattusa",
+		"Nineveh"
+	  ]
+	},
 	{
       "name": "Currencies",
       "items": [
